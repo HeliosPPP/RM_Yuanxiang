@@ -1,0 +1,1 @@
+define({ availableImg: ["9154468","Beck2016Visual"]});
